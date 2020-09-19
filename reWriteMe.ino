@@ -1,6 +1,6 @@
 
 
-// LED Base Chaser Code
+// LED Chaser Initial Code 
 
 //Task #1: Based on the code below, describe the components most likely needed for in this circuit. 
 //Task #2: Rewrite the following code in any way you want as long as you: (1) reduce the lines of code, (2) improve readability and maintenance and (3) has no errors
